@@ -15,6 +15,8 @@ This project implements a **Neural Style Transfer (NST)** web application that a
 Neural Style Transfer is based on the concept of separating content features and style features using convolutional neural networks (CNNs), then generating a new image that combines the **content** of one image with the **style** of another.
 
 ---
+### Demo
+![Neural Style Transfer Demo](demo.gif)
 
 ## ✨ Features
 
