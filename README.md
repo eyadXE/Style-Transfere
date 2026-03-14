@@ -16,8 +16,7 @@ Neural Style Transfer is based on the concept of separating content features and
 
 ---
 ### Demo
-![Neural Style Transfer Demo](demo.gif)
-
+![Demo](assets/demo.gif)
 ## ✨ Features
 
 - 📁 Upload content and style images via a simple sidebar
